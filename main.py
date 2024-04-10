@@ -7,8 +7,8 @@ broker = "192.168.2.2"
 port = 1883
 # client_id = f'python-mqtt-{random.randint(0, 1000)}'
 client_id = f"base_topic"
-username = "mqtt"
-password = "mqtt354"
+username = "mqtt_username"
+password = "mqtt_password"
 base_topic = "pc"
 
 disks = ["C:", "D:", "E:"]
